@@ -4,6 +4,9 @@ virtualenv
 __pycache__
 *.pyc
 
+*.pem
+*.ppk
+
 static
 
 akce
